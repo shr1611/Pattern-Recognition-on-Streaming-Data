@@ -20,12 +20,20 @@ Input:
 Here is the format of input and output
 
 Input from stdin Example:
+
 129.210.16.80, 9999
+
 129.210.16.88, 33333
+
 3
+
 linux10617.scudc.scu.edu, 55555
+
 7
+
 23
+
+
 Input from Socket Example:
 <id>,<url>
 100, http://<url1.com>
