@@ -19,7 +19,7 @@ Input:
 
 Here is the format of input and output
 
-Input from stdin Example:
+# Input from stdin Example:
 
 129.210.16.80, 9999
 
