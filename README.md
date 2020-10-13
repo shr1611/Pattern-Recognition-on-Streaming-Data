@@ -34,7 +34,7 @@ linux10617.scudc.scu.edu, 55555
 23
 
 
-Input from Socket Example:
+# Input from Socket Example:
 <id>,<url>
   
 100, http://<url1.com>
@@ -45,7 +45,7 @@ Input from Socket Example:
 
 400, http://<url1.com>
 
-Output shown in this program are:
+# Output shown in this program are:
 
 - Whenever an input from a socket, it is output to stdout immediately. 
 - The Web click sequence, and MFRs
