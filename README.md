@@ -43,3 +43,10 @@ Input from Socket Example:
 
 200, http://<url3.com>
 
+400, http://<url1.com>
+
+Output shown in this program are:
+
+- Whenever an input from a socket, it is output to stdout immediately. 
+- The Web click sequence, and MFRs
+
