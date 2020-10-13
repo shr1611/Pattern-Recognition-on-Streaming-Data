@@ -36,6 +36,10 @@ linux10617.scudc.scu.edu, 55555
 
 Input from Socket Example:
 <id>,<url>
+  
 100, http://<url1.com>
+
 100, http://<url2.com>
+
 200, http://<url3.com>
+
